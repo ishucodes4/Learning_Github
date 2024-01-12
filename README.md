@@ -1,2 +1,1 @@
-# Learning_Github
-Learning git.
+Hey Im leanring github and upskilling myself for real hahaha.
